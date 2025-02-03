@@ -1,4 +1,6 @@
 # Simple Merge Files
+[![npm version](https://img.shields.io/npm/v/simple-merge-files.svg)](https://www.npmjs.com/package/simple-merge-files)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 프로젝트의 모든 파일들을 크기 제한(10MB)에 맞춰 하나의 텍스트 파일로 병합하는 CLI 도구입니다.
 
