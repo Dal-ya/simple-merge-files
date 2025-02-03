@@ -1,0 +1,22 @@
+{
+  "name": "simple-merge-files",
+  "version": "0.0.4",
+  "description": "A CLI tool to merge files with size limit",
+  "main": "src/index.js",
+  "bin": {
+    "merge-files": "./bin/simple-merge-files.js"
+  },
+  "scripts": {
+    "start": "node bin/simple-merge-files.js"
+  },
+  "keywords": [
+    "cli",
+    "file",
+    "merge",
+    "utility"
+  ],
+  "author": "dal-ya",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
